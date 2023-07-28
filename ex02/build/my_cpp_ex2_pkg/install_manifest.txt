@@ -1,0 +1,15 @@
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/ament_index/resource_index/package_run_dependencies/my_cpp_ex2_pkg
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/ament_index/resource_index/parent_prefix_path/my_cpp_ex2_pkg
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/environment/ament_prefix_path.sh
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/environment/ament_prefix_path.dsv
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/environment/path.sh
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/environment/path.dsv
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/local_setup.bash
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/local_setup.sh
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/local_setup.zsh
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/local_setup.dsv
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/package.dsv
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/ament_index/resource_index/packages/my_cpp_ex2_pkg
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/cmake/my_cpp_ex2_pkgConfig.cmake
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/cmake/my_cpp_ex2_pkgConfig-version.cmake
+/home/tuandinh/Desktop/ROS2_2023/ex02/install/my_cpp_ex2_pkg/share/my_cpp_ex2_pkg/package.xml
