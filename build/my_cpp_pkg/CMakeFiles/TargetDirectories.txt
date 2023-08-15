@@ -6,6 +6,7 @@
 /home/tuandinh/Desktop/ROS2_2023/build/my_cpp_pkg/CMakeFiles/add_two_ints_server.dir
 /home/tuandinh/Desktop/ROS2_2023/build/my_cpp_pkg/CMakeFiles/add_two_ints_client_no_oop.dir
 /home/tuandinh/Desktop/ROS2_2023/build/my_cpp_pkg/CMakeFiles/add_two_ints_client.dir
+/home/tuandinh/Desktop/ROS2_2023/build/my_cpp_pkg/CMakeFiles/hardware_status_publisher.dir
 /home/tuandinh/Desktop/ROS2_2023/build/my_cpp_pkg/CMakeFiles/test.dir
 /home/tuandinh/Desktop/ROS2_2023/build/my_cpp_pkg/CMakeFiles/edit_cache.dir
 /home/tuandinh/Desktop/ROS2_2023/build/my_cpp_pkg/CMakeFiles/rebuild_cache.dir

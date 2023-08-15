@@ -17,9 +17,6 @@ class AddTwoIntsServerNode(Node):
         respone.sum = request.a + request.b
         self.get_logger().info(str(request.a) + " + " + str(request.b) + " = " + str(respone.sum))
         return respone
-
-    def callback_reset_number_count_service(self, success, message):
-        pass
     
 def main(args = None):
     rclpy.init(args=args)

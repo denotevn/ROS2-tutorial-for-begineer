@@ -14,6 +14,7 @@ class AddTwoIntsClientNode(Node):
         self.call_add_two_ints_server(5,5)
         self.call_add_two_ints_server(10,10)
 
+    # function to call the server
     def call_add_two_ints_server(self, a, b):
         client = self.create_client(AddTwoInts, "add_two_ints")
         while not client.wait_for_service(1.0):
@@ -24,7 +25,7 @@ class AddTwoIntsClientNode(Node):
         future = client.call_async(request=request)
         # Add a callback to be executed when the task is done
         future.add_done_callback(partial(self.callback_call_add_two_ints,a=a, b=b))
-    
+    # callback to handle response from the server
     def callback_call_add_two_ints(self, future, a, b):
         try:
             response = future.result()
